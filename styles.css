@@ -200,4 +200,11 @@ body {
     cursor: pointer;
   }
   
-  
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
